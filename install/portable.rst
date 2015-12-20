@@ -1,0 +1,2 @@
+Install as Portable
+===================
